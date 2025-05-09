@@ -14,7 +14,7 @@ namespace BookLibrary_DataAccess
 
 
         public static string ConnectionString = ConfigurationManager.AppSettings["ConnectionString"];
-        public static bool GetBookInfoByBookID(int BookID,ref string BookName,ref string AuthorName,ref string ISBN,ref string BookDescription ,ref int NumberOfCopies, ref string ImagePath)
+        public static bool GetBookInfoByBookID(int BookID,ref string BookName,ref string AuthorName,ref string ISBN,ref string BookDescription ,ref float Rating,ref int NumberOfCopies, ref string ImagePath)
         {
 
             bool IsFound = false;
@@ -38,6 +38,7 @@ namespace BookLibrary_DataAccess
                             AuthorName = Convert.ToString(reader["AuthorName"]);
                             ISBN = Convert.ToString(reader["ISBN"]);
                             BookDescription = Convert.ToString(reader["BookDescription"].ToString());
+                            Rating = (float)Convert.ToDouble(reader["Rating"]);
                             NumberOfCopies = Convert.ToInt32(reader["NumberOfCopies"]);
                             ImagePath = Convert.ToString(reader["ImagePath"].ToString());
 

@@ -49,7 +49,7 @@
             this.pbStarFour.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbStarFour.TabIndex = 4;
             this.pbStarFour.TabStop = false;
-            this.pbStarFour.Click += new System.EventHandler(this.pbStarOne_Click);
+            this.pbStarFour.Click += new System.EventHandler(this.Star_Click);
             // 
             // pbStarFive
             // 
@@ -60,7 +60,7 @@
             this.pbStarFive.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbStarFive.TabIndex = 3;
             this.pbStarFive.TabStop = false;
-            this.pbStarFive.Click += new System.EventHandler(this.pbStarOne_Click);
+            this.pbStarFive.Click += new System.EventHandler(this.Star_Click);
             // 
             // pbStarThree
             // 
@@ -71,7 +71,7 @@
             this.pbStarThree.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbStarThree.TabIndex = 2;
             this.pbStarThree.TabStop = false;
-            this.pbStarThree.Click += new System.EventHandler(this.pbStarOne_Click);
+            this.pbStarThree.Click += new System.EventHandler(this.Star_Click);
             // 
             // pbStarTwo
             // 
@@ -82,7 +82,7 @@
             this.pbStarTwo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbStarTwo.TabIndex = 1;
             this.pbStarTwo.TabStop = false;
-            this.pbStarTwo.Click += new System.EventHandler(this.pbStarOne_Click);
+            this.pbStarTwo.Click += new System.EventHandler(this.Star_Click);
             // 
             // pbStarOne
             // 
@@ -93,7 +93,7 @@
             this.pbStarOne.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbStarOne.TabIndex = 0;
             this.pbStarOne.TabStop = false;
-            this.pbStarOne.Click += new System.EventHandler(this.pbStarOne_Click);
+            this.pbStarOne.Click += new System.EventHandler(this.Star_Click);
             // 
             // ctrRatingBar
             // 

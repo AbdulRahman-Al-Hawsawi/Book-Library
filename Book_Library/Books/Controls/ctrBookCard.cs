@@ -25,9 +25,9 @@ namespace Book_Library.Books.Controls
         public enMode Mode { get; set; }
 
         public int BookID { set; get; }
-        public int BookRating 
+        public float BookRating 
         {
-            get { return BookID; } set {ctrRatingBar1.SetRating(value); }
+            get { return BookID; } set {ctrRatingBar1.SetBookRating(value); }
         
         }
 

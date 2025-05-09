@@ -36,6 +36,7 @@ namespace Book_Library.Books.Controls
             lblAuthorName.Text = Book.AuthorName;
             lblISBN.Text = Book.ISBN;
             lblBookDescription.Text = Book.BookDescription;
+            ctrRatingBar1.SetBookRating(Book.Rating);
 
             if (File.Exists(Book.ImagePath))
                 pbBookCoverImage.ImageLocation = Book.ImagePath;

@@ -27,6 +27,8 @@ namespace Book_Library.Books.Controls
         set
             {
                 LoadBookInfo(value);
+                ctrRatingBar1.BookID = value;
+                ctrRatingBar1.SetBookRating(clsRating.GetUserRating(clsGlobal.CurrentUser.UserID,value));
             }
         }
 

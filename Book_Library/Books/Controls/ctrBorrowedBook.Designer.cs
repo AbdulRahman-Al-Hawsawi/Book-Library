@@ -32,6 +32,8 @@
             this.btnReturn = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.lblDueDate = new System.Windows.Forms.Label();
+            this.ctrRatingBar1 = new Book_Library.Books.Controls.ctrRatingBar();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pbBookCoverImage)).BeginInit();
             this.SuspendLayout();
             // 
@@ -49,7 +51,7 @@
             // 
             this.btnReturn.AutoSize = true;
             this.btnReturn.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReturn.Location = new System.Drawing.Point(76, 345);
+            this.btnReturn.Location = new System.Drawing.Point(76, 431);
             this.btnReturn.Name = "btnReturn";
             this.btnReturn.Size = new System.Drawing.Size(132, 32);
             this.btnReturn.TabIndex = 2;
@@ -77,16 +79,35 @@
             this.lblDueDate.TabIndex = 4;
             this.lblDueDate.Text = "??";
             // 
+            // ctrRatingBar1
+            // 
+            this.ctrRatingBar1.Location = new System.Drawing.Point(4, 367);
+            this.ctrRatingBar1.Name = "ctrRatingBar1";
+            this.ctrRatingBar1.Size = new System.Drawing.Size(287, 58);
+            this.ctrRatingBar1.TabIndex = 5;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Tahoma", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(3, 345);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(205, 19);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "Your review of the book";
+            // 
             // ctrBorrowedBook
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.ctrRatingBar1);
             this.Controls.Add(this.lblDueDate);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnReturn);
             this.Controls.Add(this.pbBookCoverImage);
             this.Name = "ctrBorrowedBook";
-            this.Size = new System.Drawing.Size(291, 388);
+            this.Size = new System.Drawing.Size(291, 466);
             ((System.ComponentModel.ISupportInitialize)(this.pbBookCoverImage)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -99,5 +120,7 @@
         private System.Windows.Forms.Button btnReturn;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblDueDate;
+        private ctrRatingBar ctrRatingBar1;
+        private System.Windows.Forms.Label label2;
     }
 }

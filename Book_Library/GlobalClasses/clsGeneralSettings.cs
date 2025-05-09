@@ -8,7 +8,10 @@ namespace Book_Library.GlobalClasses
 {
     public static class clsGeneralSettings
     {
-
+      static  void Get()
+        {
+            return;
+        }
 
     }
 }

@@ -13,3 +13,18 @@ C:\Users\Abdulrahman\Desktop\VS Projects\BookLibrary\BookLibrary_DataAccess\bin\
 C:\Users\Abdulrahman\Desktop\VS Projects\BookLibrary\BookLibrary_DataAccess\obj\Debug\BookLibr.558D4158.Up2Date
 C:\Users\Abdulrahman\Desktop\VS Projects\BookLibrary\BookLibrary_DataAccess\obj\Debug\BookLibrary_DataAccess.dll
 C:\Users\Abdulrahman\Desktop\VS Projects\BookLibrary\BookLibrary_DataAccess\obj\Debug\BookLibrary_DataAccess.pdb
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\obj\Debug\BookLibrary_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\obj\Debug\BookLibrary_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\obj\Debug\BookLibrary_DataAccess.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\obj\Debug\BookLibrary_DataAccess.pdb
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\BookLibrary_DataAccess.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\BookLibrary_DataAccess.pdb
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\System.Memory.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\System.ValueTuple.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\System.Buffers.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_DataAccess\obj\Debug\BookLibr.558D4158.Up2Date

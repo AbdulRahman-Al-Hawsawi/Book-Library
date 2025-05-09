@@ -42,38 +42,38 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Book_Library.exe" size="750600">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Book_Library.exe" size="752648">
       <assemblyIdentity name="Book_Library" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ERc0nOR+K8cbmWzJHNGhg3/ZGPyQCt+mfY3Vzn+HWrw=</dsig:DigestValue>
+        <dsig:DigestValue>X2PXpswr7qMUt9/4JRgFLMvqRxZIrJFkzmeynX8/V1U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BookLibrary_Business.dll" size="15360">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BookLibrary_Business.dll" size="16896">
       <assemblyIdentity name="BookLibrary_Business" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2BtKvKo/WOetN/860ckmGH2F4WbhGwaQiAt6b4AFWcs=</dsig:DigestValue>
+        <dsig:DigestValue>xYsMhQteiXTvPt/xFX+the76FdCmtlud02tFMX2s+cU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BookLibrary_DataAccess.dll" size="28160">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BookLibrary_DataAccess.dll" size="30208">
       <assemblyIdentity name="BookLibrary_DataAccess" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>oKB/7k6PrFo6UuEmDoJ0bycpasvp5rQ4ZP1l19eLRr0=</dsig:DigestValue>
+        <dsig:DigestValue>PH1li8q9KSTfgOuWGS9Xn5hCE3iNOujf0z8hyhczxFY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

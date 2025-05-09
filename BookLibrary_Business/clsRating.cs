@@ -10,17 +10,17 @@ using BookLibrary_DataAccess;
 
 namespace BookLibrary_Business
 {
-    class clsRating
+    public class clsRating
     {
         private enum _enMode { Add, Update };
         _enMode Mode = _enMode.Add;
 
         public int RatingID { get; set; }
         public int UserID { get; set; }
-        public short BookID { get; set; }
+        public int BookID { get; set; }
         public byte Rating { get; set; }
         public DateTime RatingDate { get; set; }
-      
+
 
         public clsRating()
         {
@@ -43,70 +43,20 @@ namespace BookLibrary_Business
 
         private bool _AddNewRating()
         {
-            this.RatingID = clsRatingDataAccess.AddNewRating(this.UserID, this.BookID, this.Rating, this.RatingDate);
+            this.RatingID = clsRatingDataAccess.AddNewRating(this.UserID, this.BookID, this.Rating);
 
             return (this.RatingID != -1);
         }
 
         private bool _UpdateRating()
         {
-            return clsRatingDataAccess.UpdateRating(this.RatingID, this.UserID, this.BookID, this.Rating, this.RatingDate, this.Password);
+            return clsRatingDataAccess.UpdateRating(this.RatingID, this.UserID, this.BookID, this.Rating);
         }
 
-        public static bool DeleteRating(int RatingRatingID)
+        public static bool DeleteRating(int RatingID)
         {
-            return clsRatingDataAccess.DeleteRating(RatingRatingID);
+            return clsRatingDataAccess.DeleteRating(RatingID);
         }
-
-        public static bool DeleteAdmin(int RatingRatingID)
-        {
-            return clsRatingDataAccess.DeleteRating(RatingRatingID);
-        }
-
-        public static bool isRatingExist(string BookID)
-        {
-            return clsRatingDataAccess.isRatingExist(BookID);
-        }
-
-        public static clsRating Find(int RatingID)
-        {
-            string BookID = "", Password = "";
-            int UserID = -1, RatingDate = 0;
-            byte Rating = 0;
-
-            if (clsRatingDataAccess.GetRatingInfoByRatingID(RatingID, ref UserID, ref BookID, ref Rating, ref RatingDate, ref Password))
-                return new clsRating(RatingID, UserID, BookID, Rating, RatingDate, Password);
-            else
-                return null;
-
-        }
-
-        public static clsRating Find(string Email, string Password)
-        {
-            string BookID = "";
-            byte Rating = 0;
-            int RatingID = 0, UserID = 0, RatingDate = 0;
-
-            if (clsRatingDataAccess.GetRatingInfoByEmailAndPassword(Email, Password, ref RatingID, ref UserID, ref BookID, ref Rating, ref Password))
-                return new clsRating(RatingID, UserID, BookID, Rating, RatingDate, Password);
-            else
-                return null;
-
-        }
-
-        public static clsRating FindByBookIDAndPassword(string BookID, string Password)
-        {
-
-            byte Rating = 0;
-            int RatingID = 0, UserID = 0, RatingDate = 0;
-
-            if (clsRatingDataAccess.GetRatingInfoByBookIDAndPassword(BookID, Password, ref RatingID, ref UserID, ref Rating, ref RatingDate))
-                return new clsRating(RatingID, UserID, BookID, Rating, RatingDate, Password);
-            else
-                return null;
-
-        }
-
 
         public bool Save()
         {
@@ -129,6 +79,11 @@ namespace BookLibrary_Business
         public static DataTable GetAllRatings()
         {
             return clsRatingDataAccess.GetAllRatings();
+        }
+
+        public static float GetUserRating(int UserID, int BookID)
+        {
+            return clsRatingDataAccess.GetUserRating(UserID, BookID);
         }
 
     }

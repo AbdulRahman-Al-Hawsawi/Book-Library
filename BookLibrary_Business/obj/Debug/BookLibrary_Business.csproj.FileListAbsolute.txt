@@ -15,3 +15,20 @@ C:\Users\Abdulrahman\Desktop\VS Projects\BookLibrary\BookLibrary_Business\bin\De
 C:\Users\Abdulrahman\Desktop\VS Projects\BookLibrary\BookLibrary_Business\bin\Debug\System.Buffers.dll
 C:\Users\Abdulrahman\Desktop\VS Projects\BookLibrary\BookLibrary_Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Abdulrahman\Desktop\VS Projects\BookLibrary\BookLibrary_Business\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\obj\Debug\BookLibrary_Business.csproj.AssemblyReference.cache
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\obj\Debug\BookLibrary_Business.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\obj\Debug\BookLibrary_Business.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\obj\Debug\BookLibrary_Business.pdb
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\BookLibrary_Business.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\BookLibrary_Business.pdb
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\BookLibrary_DataAccess.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\System.Memory.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\System.ValueTuple.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\System.Buffers.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\bin\Debug\BookLibrary_DataAccess.pdb
+C:\Users\Abdulrahman\Documents\GithubFiles\Book-Library\BookLibrary_Business\obj\Debug\BookLibr.99A1639A.Up2Date

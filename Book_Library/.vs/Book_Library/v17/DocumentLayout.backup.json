@@ -1,15 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abdulrahman\\Desktop\\VS Projects\\BookLibrary\\Book_Library\\",
+  "WorkspaceRootPath": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93234AFC-93EE-408E-8788-8780B84E961C}|..\\BookLibrary_DataAccess\\BookLibrary_DataAccess.csproj|c:\\users\\abdulrahman\\desktop\\vs projects\\booklibrary\\booklibrary_dataaccess\\clsratingdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\books\\controls\\ctrratingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:books\\controls\\ctrratingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEEED456-CB3D-4270-A4B4-5CF02F61AEBF}|..\\BookLibrary_Business\\BookLibrary_Business.csproj|c:\\users\\abdulrahman\\desktop\\vs projects\\booklibrary\\booklibrary_business\\clsrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\books\\controls\\ctrborrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:books\\controls\\ctrborrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Desktop\\VS Projects\\BookLibrary\\Book_Library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\books\\controls\\ctrbookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:books\\controls\\ctrbookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\books\\controls\\ctrbookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:books\\controls\\ctrbookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,39 +38,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsRating.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\VS Projects\\BookLibrary\\BookLibrary_Business\\clsRating.cs",
-              "RelativeDocumentMoniker": "..\\BookLibrary_Business\\clsRating.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\VS Projects\\BookLibrary\\BookLibrary_Business\\clsRating.cs",
-              "RelativeToolTip": "..\\BookLibrary_Business\\clsRating.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwC0AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ctrRatingBar.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrRatingBar.cs",
+              "RelativeDocumentMoniker": "Books\\Controls\\ctrRatingBar.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrRatingBar.cs",
+              "RelativeToolTip": "Books\\Controls\\ctrRatingBar.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwKIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T20:22:49.486Z",
+              "WhenOpened": "2025-05-06T20:39:01.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsRatingDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\VS Projects\\BookLibrary\\BookLibrary_DataAccess\\clsRatingDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\BookLibrary_DataAccess\\clsRatingDataAccess.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\VS Projects\\BookLibrary\\BookLibrary_DataAccess\\clsRatingDataAccess.cs",
-              "RelativeToolTip": "..\\BookLibrary_DataAccess\\clsRatingDataAccess.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBIAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ctrBorrowedBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBorrowedBook.cs",
+              "RelativeDocumentMoniker": "Books\\Controls\\ctrBorrowedBook.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBorrowedBook.cs [Design]",
+              "RelativeToolTip": "Books\\Controls\\ctrBorrowedBook.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T20:18:28.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T20:38:42.494Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ctrBookDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBookDetails.cs",
+              "RelativeDocumentMoniker": "Books\\Controls\\ctrBookDetails.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBookDetails.cs",
+              "RelativeToolTip": "Books\\Controls\\ctrBookDetails.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:29:10.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrBookCard.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBookCard.cs",
+              "RelativeDocumentMoniker": "Books\\Controls\\ctrBookCard.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBookCard.cs",
+              "RelativeToolTip": "Books\\Controls\\ctrBookCard.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:14:01.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Desktop\\VS Projects\\BookLibrary\\Book_Library\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman\\Desktop\\VS Projects\\BookLibrary\\Book_Library\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T19:12:19.815Z"
             }

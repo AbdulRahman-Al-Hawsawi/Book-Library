@@ -57,7 +57,7 @@ namespace Book_Library.Books
                 Book.BookName = row["BookName"].ToString();
                 Book.AuthorName = row["AuthorName"].ToString();
                 Book.ImagePath = row["ImagePath"].ToString();
-                Book.BookRating = random.Next(1, 5);
+                Book.BookRating = (float)Convert.ToDouble(row["Rating"]);
 
                 flpScreen.Controls.Add(Book);
             }

@@ -19,6 +19,7 @@ namespace BookLibrary_Business
         public string AuthorName { get; set; }
         public string ISBN { get; set; }
         public string BookDescription { get; set; }
+        public float Rating { get; set; }
         public int NumberOfCopies { get; set; }
         public string ImagePath { get; set; }
 
@@ -29,17 +30,19 @@ namespace BookLibrary_Business
             this. AuthorName = "";
             this.ISBN = "";
             this.BookDescription = "";
+            this.Rating = 0;
             this.NumberOfCopies = 1;
             this.ImagePath = "";
             this.Mode = _enMode.Add;
         }
-        private clsBook(int BookID, string BookName, string  AuthorName, string ISBN,string BookDescription,int NumberOfCopies, string ImagePath)
+        private clsBook(int BookID, string BookName, string  AuthorName, string ISBN,string BookDescription,float Rating,int NumberOfCopies, string ImagePath)
         {
             this.BookID = BookID;
             this.BookName = BookName;
             this. AuthorName =  AuthorName;
             this.ISBN = ISBN;
             this.BookDescription = BookDescription;
+            this.Rating = Rating;
             this.ImagePath = ImagePath;
             this.NumberOfCopies = NumberOfCopies;
             this.Mode = _enMode.Update;
@@ -90,9 +93,10 @@ namespace BookLibrary_Business
         {
             string BookName = "", AuthorName = "", ISBN = "", BookDescription ="", ImagePath = "";
             int NumberOfCopies = 0;
+            float Rating = 0.0f;
              
-            if (clsBookDataAccess.GetBookInfoByBookID(BookID,ref BookName,ref AuthorName,ref ISBN,ref BookDescription,ref NumberOfCopies,ref ImagePath))
-                return new clsBook(BookID,BookName, AuthorName, ISBN, BookDescription,NumberOfCopies, ImagePath);
+            if (clsBookDataAccess.GetBookInfoByBookID(BookID,ref BookName,ref AuthorName,ref ISBN,ref BookDescription,ref Rating,ref NumberOfCopies,ref ImagePath))
+                return new clsBook(BookID,BookName, AuthorName, ISBN, BookDescription,Rating,NumberOfCopies, ImagePath);
             else
                 return null;
 

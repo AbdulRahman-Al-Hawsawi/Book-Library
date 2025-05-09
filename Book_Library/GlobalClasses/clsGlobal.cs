@@ -15,6 +15,7 @@ namespace Book_Library.GlobalClasses
     {
         public static clsUser CurrentUser;
 
+
        
         public  enum enPermissions
         {
