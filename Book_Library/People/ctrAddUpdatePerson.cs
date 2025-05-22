@@ -41,7 +41,6 @@ namespace Book_Library.People
         void _LoadData()
         {
            
-
             if (_Mode == enMode.Add)
             {
                 if (clsGlobal.CurrentUser == null)

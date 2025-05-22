@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\books\\controls\\ctrratingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:books\\controls\\ctrratingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\admins\\frmadminsmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:admins\\frmadminsmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\books\\controls\\ctrborrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:books\\controls\\ctrborrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\books\\controls\\ctrbookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:books\\controls\\ctrbookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\books\\controls\\ctrbookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:books\\controls\\ctrbookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\users\\frmconfirmemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:users\\frmconfirmemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\people\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:people\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\people\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:people\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\globalclasses\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:globalclasses\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\globalclasses\\clsdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:globalclasses\\clsdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\globalclasses\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:globalclasses\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\globalclasses\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:globalclasses\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|c:\\users\\abdulrahman\\documents\\githubfiles\\book-library\\book_library\\admins\\frmadminsmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|solutionrelative:admins\\frmadminsmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD903DA6-0374-4142-AB47-B22FE4BDD9F6}|Book_Library.csproj|C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,55 +70,160 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ctrRatingBar.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrRatingBar.cs",
-              "RelativeDocumentMoniker": "Books\\Controls\\ctrRatingBar.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrRatingBar.cs",
-              "RelativeToolTip": "Books\\Controls\\ctrRatingBar.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAYwKIAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmLoginScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Login\\frmLoginScreen.cs",
+              "RelativeDocumentMoniker": "Login\\frmLoginScreen.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Login\\frmLoginScreen.cs",
+              "RelativeToolTip": "Login\\frmLoginScreen.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:39:01.101Z",
+              "WhenOpened": "2025-05-21T19:18:51.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ctrBorrowedBook.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBorrowedBook.cs",
-              "RelativeDocumentMoniker": "Books\\Controls\\ctrBorrowedBook.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBorrowedBook.cs [Design]",
-              "RelativeToolTip": "Books\\Controls\\ctrBorrowedBook.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "frmLoginScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Login\\frmLoginScreen.cs",
+              "RelativeDocumentMoniker": "Login\\frmLoginScreen.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Login\\frmLoginScreen.cs [Design]",
+              "RelativeToolTip": "Login\\frmLoginScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:38:42.494Z"
+              "WhenOpened": "2025-05-21T19:18:45.898Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ctrBookDetails.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBookDetails.cs",
-              "RelativeDocumentMoniker": "Books\\Controls\\ctrBookDetails.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBookDetails.cs",
-              "RelativeToolTip": "Books\\Controls\\ctrBookDetails.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA5wCYAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\GlobalClasses\\clsValidation.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsValidation.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\GlobalClasses\\clsValidation.cs",
+              "RelativeToolTip": "GlobalClasses\\clsValidation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:29:10.614Z"
+              "WhenOpened": "2025-05-21T05:33:20.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsDataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\GlobalClasses\\clsDataHelper.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsDataHelper.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\GlobalClasses\\clsDataHelper.cs",
+              "RelativeToolTip": "GlobalClasses\\clsDataHelper.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:33:10.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\GlobalClasses\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\GlobalClasses\\clsGlobal.cs",
+              "RelativeToolTip": "GlobalClasses\\clsGlobal.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:32:43.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\GlobalClasses\\clsUtil.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\GlobalClasses\\clsUtil.cs",
+              "RelativeToolTip": "GlobalClasses\\clsUtil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:27:40.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T05:28:07.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ctrBookCard.cs",
-              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBookCard.cs",
-              "RelativeDocumentMoniker": "Books\\Controls\\ctrBookCard.cs",
-              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Books\\Controls\\ctrBookCard.cs",
-              "RelativeToolTip": "Books\\Controls\\ctrBookCard.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAawB0AAAA9AAAAAAAAAA==",
+              "Title": "frmConfirmEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Users\\frmConfirmEmail.cs",
+              "RelativeDocumentMoniker": "Users\\frmConfirmEmail.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Users\\frmConfirmEmail.cs",
+              "RelativeToolTip": "Users\\frmConfirmEmail.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwBMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T21:14:01.392Z"
+              "WhenOpened": "2025-05-21T05:24:05.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "frmSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\People\\frmSignUp.cs",
+              "RelativeDocumentMoniker": "People\\frmSignUp.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\People\\frmSignUp.cs",
+              "RelativeToolTip": "People\\frmSignUp.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:23:32.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\People\\frmSignUp.cs",
+              "RelativeDocumentMoniker": "People\\frmSignUp.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\People\\frmSignUp.cs [Design]",
+              "RelativeToolTip": "People\\frmSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:23:27.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdminsMainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Admins\\frmAdminsMainScreen.cs",
+              "RelativeDocumentMoniker": "Admins\\frmAdminsMainScreen.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Admins\\frmAdminsMainScreen.cs",
+              "RelativeToolTip": "Admins\\frmAdminsMainScreen.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:07:11.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAdminsMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Admins\\frmAdminsMainScreen.cs",
+              "RelativeDocumentMoniker": "Admins\\frmAdminsMainScreen.cs",
+              "ToolTip": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Admins\\frmAdminsMainScreen.cs [Design]",
+              "RelativeToolTip": "Admins\\frmAdminsMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:06:54.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Abdulrahman\\Documents\\GithubFiles\\Book-Library\\Book_Library\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

@@ -12,7 +12,7 @@ namespace Book_Library.GlobalClasses
 {
     public class clsUtil
     {
-         public static bool SendEmail(string To,string Subject,string Body)
+        public static bool SendEmail(string To,string Subject,string Body)
         {
             return SendEmail(ConfigurationManager.AppSettings["ApplicationEmail"], To, Subject, Body);
         }
@@ -34,7 +34,7 @@ namespace Book_Library.GlobalClasses
                 // Set up the SMTP client
                 SmtpClient smtpClient = new SmtpClient("smtp.gmail.com");
                 smtpClient.Port = 587;  // Common SMTP port (use 465 for SSL)
-                smtpClient.Credentials = new NetworkCredential(From, ConfigurationManager.AppSettings["ApplicationEmailPassword"] /*"bjlt hqdj uxhn liqi"*/);
+                smtpClient.Credentials = new NetworkCredential(From, ConfigurationManager.AppSettings["ApplicationEmailPassword"]);
                 smtpClient.EnableSsl = true; // Enable SSL
                 smtpClient.Timeout = 30000;
 

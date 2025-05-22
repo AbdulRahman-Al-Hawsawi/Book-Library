@@ -75,7 +75,7 @@ namespace Book_Library.Books
                 Book.BookName = row["BookName"].ToString();
                 Book.AuthorName = row["AuthorName"].ToString();
                 Book.ImagePath = row["ImagePath"].ToString();
-
+                Book.BookRating = (float)Convert.ToDouble(row["Rating"]);
                 flpScreen.Controls.Add(Book);
                 flpScreen.ContextMenuStrip = Book.ContextMenuStrip;
                 tvSubSideMenu.Visible = true;

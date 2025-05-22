@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Configuration;
 
 namespace Book_Library.Users
 {
@@ -16,7 +17,7 @@ namespace Book_Library.Users
         public frmConfirmEmail(string Email)
         {
             InitializeComponent();
-           // _SentCode = SentCode;
+           
            _Email = Email;
         }
 
@@ -31,7 +32,7 @@ namespace Book_Library.Users
             string TheCode = clsUtil.GenerateRandomNumber(6);
             _SentCode = TheCode;
 
-            if (clsUtil.SendEmail("Abdu75p@gmail.com", _Email, "Email Verification", "Your verification code is: " + TheCode))
+            if (clsUtil.SendEmail(ConfigurationManager.AppSettings["ApplicationEmail"], _Email, "Email Verification", "Your verification code is: " + TheCode))
             {
                 MessageBox.Show("Code is sent check your Email");
             }

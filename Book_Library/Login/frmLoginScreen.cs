@@ -54,14 +54,14 @@ namespace Book_Library.Login
 
         private void tbEmail_Enter(object sender, EventArgs e)
         {
-            if (tbEmailOrUsername.Text == "Email")
+            if (tbEmailOrUsername.Text == "Email or Username")
                 tbEmailOrUsername.Text = null;
         }
 
         private void tbEmail_Leave(object sender, EventArgs e)
         {
             if( string.IsNullOrWhiteSpace(tbEmailOrUsername.Text))
-                tbEmailOrUsername.Text = "Email";
+                tbEmailOrUsername.Text = "Email or Username";
         }
 
         private void tbPassword_Enter(object sender, EventArgs e)

@@ -63,13 +63,7 @@ namespace Book_Library
                 tbEmail.Focus();
             }
         }
-        //void SendMessageToConfirmEmail()
-        //{
-        //    if(clsUtil.SendEmail("Abdu75p@gmail.com", "AbdulrahmanHawsawi75@gmail.com","Book Library","Enter this code to confirm your Email\n" + clsUtil.GenerateRandomNumber(6)))
-        //    {
 
-        //    }
-        //}
         private void rbMale_CheckedChanged(object sender, EventArgs e)
         {
             pbGenderImage.Image = Resources.Unknwonperson_man;
@@ -95,38 +89,21 @@ namespace Book_Library
             frmConfirmEmail ConfirmEmail = new frmConfirmEmail(tbEmail.Text.Trim());
             ConfirmEmail.ReturnTheMatchResult += Save;
             ConfirmEmail.ShowDialog();
-
-            //clsPerson NewPerson = new clsPerson();
-
-            //NewPerson.FirstName = tbFirstName.Text.Trim();
-            //NewPerson.SecondName = tbSecondName.Text.Trim();
-            //NewPerson.ThirdName = tbThirdName.Text.Trim();
-            //NewPerson.LastName = tbLastName.Text.Trim();
-            //NewPerson.Email = tbEmail.Text.Trim();
-            //NewPerson.Phone = tbPhone.Text.Trim();
-            //NewPerson.Address = tbAddress.Text.Trim();
-            //NewPerson.DateOfBirth = dtpDateOfBirth.Value;
-            //NewPerson.Gender = rbMale.Checked ? (byte)0 : (byte)1;
-
-            //if (NewPerson.Save())
-            //{
-            //    MessageBox.Show("Successfully Sign Up ID : " + NewPerson.PersonID, "Sign Up", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            //    frmAddUpdateUserInfo AddUserInfo = new frmAddUpdateUserInfo(NewPerson.PersonID);
-            //    AddUserInfo.ShowDialog();
-            //    MessageBox.Show("Done, Login with Your User Credentials ", "Sign Up", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            //    this.Close();
-            //    _frmLoginScreen.Show();
-
-            //}
-            //else
-            //    MessageBox.Show("Invalid Sign Up", "Sign Up", MessageBoxButtons.RetryCancel, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
-
         }
-
-       
+  
         private void frmSignUp_FormClosed(object sender, FormClosedEventArgs e)
         {
             _frmLoginScreen.Show();
+        }
+
+        private void tbEmail_TextChanged(object sender, EventArgs e)
+        {
+
+            if (clsValidation.ValidateEmail(tbEmail.Text))
+            {
+                errorProvider1.SetError(tbEmail, "Invalid Email");
+            }
+           
         }
     }
 }
